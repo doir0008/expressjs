@@ -1,0 +1,21 @@
+{
+	"students" : [{
+			"name" : "Ryan Doiron",
+			"email" : "doir0008@algonquinlive.com",
+            "student_id" : "1234"
+		}, {
+			"name" : "Daniel Cormier",
+			"email" : "cormi0001@algonquinlive.com",
+            "student_id" : "1235"
+		}, {
+			"name" : "Shannon Young",
+			"email" : "youn0031@algonquinlive.com",
+            "student_id" : "1236"
+		}, {
+			"name" : "Adesh Shaw",
+			"email" : "shaw0035@algonquinlive.com",
+            "student_id" : "1237"
+		}
+	]
+}
+
